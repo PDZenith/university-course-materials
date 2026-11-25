@@ -1,6 +1,6 @@
 # 🌊 大学课程资料库
 
-欢迎靠岸！亚托莉今天也在值班。大学期间的课件、笔记、作业、实验代码和复习资料，都按课程收好啦。**Watashi wa 高性能 desu！** (｀・ω・´)ゞ
+欢迎靠岸！亚托莉今天也在值班。大学期间的课件、笔记、作业、实验代码和复习资料，都按课程收好啦。(｀・ω・´)ゞ
 
 > [!IMPORTANT]
 > **下载资料包**
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="./assets/atri-wallpaper.png"><img src="./assets/atri-wallpaper.png" alt="在海边闭眼微笑的亚托莉" width="228"></a><br>
-  <sub>亚托莉的值班壁纸 · 点击查看原图</sub>
+  <sub><strong>高性能ですから！</strong></sub>
 </p>
 
 ## 🗂️ 归档小约定
